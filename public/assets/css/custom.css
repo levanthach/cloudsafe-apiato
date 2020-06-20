@@ -1,0 +1,95 @@
+html, body {
+	overflow-x: hidden;
+}
+.add-site-content__title {
+    font-size: 2.5rem;
+    padding: 35px 0 10px 0;
+    text-align: center;
+    color: #2da2db;
+}
+
+.add-site-content__input input {
+		width: 500px;
+	height: 50px;
+    padding: 5px 25px 5px 10px;
+    font-size: 1.2rem;
+}
+
+.add-site-content__desc {
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    text-align: center;
+    margin-bottom: 35px;
+    width: 600px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.add-site-content__button a {
+	width: 170px;
+    margin: 25px auto 20px auto;
+    padding: 13px 20px;
+}
+.add-site-content__img {
+	    margin-top: 80px;
+}
+.footer {
+	position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.settings_content_main_wrap {
+    background-color: #fff;
+    border: 1px solid #cdcdcd;
+    margin-top: 10px;
+    overflow: hidden;
+    padding: 40px 20px;
+    width: 100%;
+    clear: both;
+    font-size: 1.13rem;
+    border-radius: 5px;
+}
+.settings_content_main_title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.sub_text {
+    height: auto;
+    padding: 10px 0;
+    font-size: 1rem;
+}
+
+.form-control.inline_left.add_input {
+    width: 280px;
+    display: inline;
+    margin-right: 20px;
+}
+
+#addBlackList {
+    background-color: #7f94a0;
+    color: #fff;
+    display: inline;
+}
+
+.settiing_tip {
+    display: inline-block;
+    margin: 0;
+    margin-left: 8px;
+    font-size: 14px;
+}
+
+#exampleSelect-country {
+    width: 400px;
+    display: inline;
+    margin-right: 20px;
+}
+
+.aside {
+    background: #1E1E2D!important;
+}
+
+.header {
+    background: #1E1E2D!important;
+}
