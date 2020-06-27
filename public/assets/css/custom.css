@@ -93,3 +93,10 @@ html, body {
 .header {
     background: #1E1E2D!important;
 }
+.ssl_type {
+    padding: 15px;
+    border: 1px solid #d8d9df;
+}
+i.fa-check {
+    color:green;
+}

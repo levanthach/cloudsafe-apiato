@@ -4,8 +4,8 @@
             <div class="container d-flex flex-column flex-md-row align-items-center justify-content-between">
               <!--begin::Copyright-->
               <div class="text-dark order-2 order-md-1">
-                <span class="text-muted font-weight-bold mr-2">2020©</span>
-                <a href="http://keenthemes.com/metronic" target="_blank" class="text-dark-75 text-hover-primary">VINACIS</a>
+                <span class="text-muted font-weight-bold mr-2">© 2020 Cloudsafe.</span>
+                <a href="https:vinacis.com" target="_blank" class="text-dark-75 text-hover-primary">All Rights Reserved</a>
               </div>
               <!--end::Copyright-->
               <!--begin::Nav-->

@@ -16,7 +16,23 @@
 
     	<!--begin::Page Scripts(used by this page)-->
             <script src="{{ asset('./assets/js/pages/custom/login/login-general.js?v=7.0.4') }}"></script>
+
+             <!--begin::Page Vendors(used by this page)-->
+
+        <!--end::Page Vendors-->
+ <!--begin::Page Vendors(used by this page)-->
+            <script src="//www.amcharts.com/lib/3/amcharts.js?v=7.0.5"></script>
+            <script src="//www.amcharts.com/lib/3/serial.js?v=7.0.5"></script>
+            <script src="//www.google.com/jsapi?v=7.0.5"></script>
+
+                        <!--end::Page Vendors-->
+    <!--begin::Page Scripts(used by this page)-->
+             <script src="{{ asset('./assets/js/pages/features/charts/amcharts/charts.js?v=7.0.5') }}"></script>
+            <script src="{{ asset('./assets/js/pages/crud/datatables/basic/scrollable.js?v=7.0.5') }}"></script>
+
+            <script src="{{ asset('./assets/js/pages/features/charts/google-charts.js?v=7.0.5') }}"></script>
         <!--end::Page Scripts-->
+
 
 		<!--end::Page Scripts-->
 	</body>

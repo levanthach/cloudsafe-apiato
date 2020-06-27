@@ -17,23 +17,11 @@ class createApplication extends WebController
         elseif($page == "setting"){
             return view('application::Reseller.Pages.setting');
         } 
-        elseif($page == "recharge-customer"){
-            return view('application::Reseller.Pages.recharge_customer');
+        elseif($page == "log"){
+            return view('application::Reseller.Pages.log');
         } 
-        elseif($page == "voucher-account"){
-            return view('application::Reseller.Pages.manage_voucher_account');
-        } 
-        elseif($page == "voucher-product"){
-            return view('application::Reseller.Pages.manage_voucher_product');
-        }
-        elseif($page == "profile"){
-            return view('application::Reseller.User.user_profile');
-        }   
-        elseif($page == "notifile"){
-            return view('application::Reseller.User.notifile_view');
-        }  
-        elseif($page == "password-change"){
-            return view('application::Reseller.User.password_change');
+        elseif($page == "report"){
+            return view('application::Reseller.Pages.report');
         } 
 
         else {
